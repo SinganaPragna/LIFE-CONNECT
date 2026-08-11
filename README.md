@@ -2,7 +2,7 @@
 
 ### A Smart Search Blood Donor Management System
 
-LIFE CONNECT is a full-stack web application designed to connect blood donors with patients who are in need of blood. The platform helps users search for suitable blood donors based on blood group and location, register as donors, and manage emergency blood requests.
+LIFE CONNECT is a web application designed to connect blood donors with patients who are in need of blood. The platform helps users search for suitable blood donors based on blood group and location, register as donors, and manage emergency blood requests.
 
 ## 🚀 Features
 
@@ -21,7 +21,7 @@ LIFE CONNECT is a full-stack web application designed to connect blood donors wi
 - React.js
 - HTML5
 - CSS3
-- Tailwind CSS
+
 
 ### Backend
 - Node.js
@@ -34,6 +34,23 @@ LIFE CONNECT is a full-stack web application designed to connect blood donors wi
 - Git
 - GitHub
 - Visual Studio Code
+
+  ## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](Screenshots/home.png)
+
+### 🔐 Login Page
+![Login Page](Screenshots/login.png)
+
+### 📝 Sign Up Page
+![Sign Up Page](Screenshots/signup.png)
+
+### 👤 Registration Page
+![Registration Page](Screenshots/Register.png)
+
+### 📊 Dashboard
+![Dashboard](Screenshots/display.png)
 
 ## 📂 Project Structure
 
