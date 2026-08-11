@@ -8,10 +8,8 @@ LIFE CONNECT is a web application designed to connect blood donors with patients
 
 - 🔍 Search donors based on blood group and location
 - 🩸 Donor registration and profile management
-- 🚨 Create and manage emergency blood requests
 - 👤 User registration and authentication
 - 📍 Location-based donor search
-- 📊 Donor and patient dashboards
 - 💾 Secure storage and management of application data
 - 📱 Responsive and user-friendly interface
 
